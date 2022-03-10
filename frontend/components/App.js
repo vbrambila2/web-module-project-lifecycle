@@ -83,7 +83,6 @@ export default class App extends React.Component {
 
   render() {
     const { list, todo } = this.state
-    console.log(list, "list");
 
     return (
       <div>
